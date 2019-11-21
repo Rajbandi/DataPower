@@ -1,0 +1,1 @@
+docker build - < castlemockrest -t castlemockrest
